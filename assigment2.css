@@ -1,0 +1,111 @@
+.c1{
+    
+    border: 1px  solid black;
+    text-align:  center;
+    padding-bottom: 70px; 
+    margin: 10px; 
+    font-size:x-large;
+    font-family: sans-serif;
+    letter-spacing: 5px;
+    /* width: 100%;  */
+}
+.c2{
+    float: left;
+    padding: 1px;
+    border: 1px solid black;
+    margin: 1px;
+    margin-left: 60px;
+    font-size: larger;
+
+}
+.c3{
+    margin: 10px;
+    padding-left: 30px;
+    padding-top: 50px;
+    padding-right: 200px;
+   text-align:center;
+   font-size: x-large; 
+   letter-spacing:  7px;
+}
+.secondbox{
+    float: left;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 9px;
+}
+.heading{
+    text-align: center;
+}
+.b1
+{
+    float: left;
+    border: 1px solid black;
+    padding: 15px;
+    margin: 30px;
+    font-size: 1.8em;
+    text-align: center;
+}
+.b2
+{
+    float: left;
+    border: 1px solid black;
+    padding: 15px ;
+    margin: 30px;
+    font-size: 1.8em;
+    text-align: center;
+    
+
+}
+.b3
+{
+    float: left;
+    border: 1px solid black;
+    padding: 15px;
+    margin: 30px;
+    font-size: 1.8em;
+    text-align: center;
+}
+.b4
+{
+    float: left;
+    border: 1px solid black;
+    padding: 0px 1px 80px 2px;
+    
+  
+    margin-left: 20px;
+    margin-top: 28px;
+    margin-right: 10px;
+    
+    font-size: 1.3em;
+    text-align: center;
+}
+.b5
+{
+    float: left;
+    border: 1px solid black;
+    padding: 15px ;
+    margin: 30px;
+    font-size: 1.8em;
+    text-align: center;
+    
+
+}
+.b6
+{
+    float: left;
+    border: 1px solid black;
+    padding: 15px;
+    margin: 30px;
+    font-size: 1.8em;
+    text-align: center;
+}
+.final{
+    padding: 5px;
+    border: 1px solid black;
+    text-align: center;
+    margin: 8px;
+    margin-top: 670px;
+    letter-spacing: 2px;
+    font-size: 1.5em;
+    font-family: sans-serif;
+}
